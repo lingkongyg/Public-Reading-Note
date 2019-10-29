@@ -17,6 +17,7 @@
 
 - Newly proposed Context Aggregaion Module can reduse the sensitivity to dropout noise, mainly due to maxpooling
 - Focal loss between the synthetic label and prediction, plus geodesic loss between synthetic and real data, as the loss function
+- asdf
 
 ## What can you use yourself?
 
